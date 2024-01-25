@@ -28,7 +28,7 @@ This is for developing applications focused on the Sinhala language, aiming to m
 
 Feel free to check out these other great projects:
 
-- [සිංහල - Easy Uniicode Converter](https://www.easysinhalaunicode.com/)
+- [සිංහල - Easy Unicode Converter](https://www.easysinhalaunicode.com/)
 
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out!
