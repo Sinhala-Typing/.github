@@ -25,6 +25,19 @@ This is for developing applications focused on the Sinhala language, aiming to m
 - **Improved Website**: [Click Here](https://sinhala-typing.github.io/transliterator-website/)
 - **Repository Link**: [transliterator-website](https://github.com/Sinhala-Typing/transliterator-website)
 
+## My Collections
+
+### Legacy Sinhala Fonts
+- **Description**: A collection of the most popular legacy Sinhala fonts.
+- **Repository Link**: [fonts-legacy](https://github.com/Sinhala-Typing/fonts-legacy)
+
+### Unicode Sinhala Fonts
+- **Description**: A collection of the most popular (new) Unicode Sinhala fonts.
+- **Repository Link**: [fonts-unicode](https://github.com/Sinhala-Typing/fonts-unicode)
+
+### Tool Collection
+- **Description**: A collection of tools related to Sinhala typing.
+- **Repository Link**: [tool-collection](https://github.com/Sinhala-Typing/tool-collection)
 
 ## Other Great Projects
 
