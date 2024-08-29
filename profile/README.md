@@ -7,20 +7,14 @@ This is for developing applications focused on the Sinhala language, aiming to m
 ## My Projects
 
 ### Mathematical Jargon Translator
-
 - **Description**: A simple website designed to translate Sinhala/Singlish mathematical terms to English, specifically built for Sri Lankan GCE A/L Syllabus.
 - **Website Link**: [Click Here](https://sinhala-typing.github.io/mathematical-jargon-translator/)
-- **Repository Link**: [mathematical-jargon-translator](Sinhala-Typing/mathematical-jargon-translator)
-
-![image](https://github.com/user-attachments/assets/7be18b5c-8666-4036-b6df-5e3d69a0dd3c)
+- **Repository Link**: [mathematical-jargon-translator](https://github.com/Sinhala-Typing/mathematics-translator)
 
 
 ### Docx Search Tk
-
-- **Description**: A GUI application built with Tkinter and Python for searching contents within a .docx file.
-- **Repository Link**: [docx-search-tk](Sinhala-Typing/docx-search-tk)
-
-![image](https://github.com/user-attachments/assets/d0460e3b-0fc9-45a9-9602-a477fa3cbbed)
+- **Description**: A GUI application built with Tkinter and Python for searching contents within a .docx file with support for Sinhala language (non-legacy)
+- **Repository Link**: [docx-search-tk](https://github.com/Sinhala-Typing/docx-search-tk)
 
 
 ## Projects I've Improved
@@ -29,9 +23,7 @@ This is for developing applications focused on the Sinhala language, aiming to m
 - **Description**: Real-time Singlish to Sinhala converter website.
 - **Original Website**: [Click Here](https://ucsc.cmb.ac.lk/ltrl/services/feconverter/t1.html)
 - **Improved Website**: [Click Here](https://sinhala-typing.github.io/transliterator-website/)
-- **Repository Link**: [transliterator-website](Sinhala-Typing/transliterator-website)
-
-![image](https://github.com/user-attachments/assets/d180e04e-ee5f-43f0-832a-ca87e4685cd3)
+- **Repository Link**: [transliterator-website](https://github.com/Sinhala-Typing/transliterator-website)
 
 
 ## Other Great Projects
