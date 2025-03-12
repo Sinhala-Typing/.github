@@ -8,12 +8,12 @@ This is for developing / distributing applications focused on the Sinhala langua
 
 ### Mathematical Jargon Translator
 - **Description**: A simple website designed to translate Sinhala/Singlish mathematical terms to English, specifically built for Sri Lankan GCE A/L Syllabus.
-- **Website Link**: [Click Here](https://sinhala-typing.github.io/mathematical-jargon-translator/)
-- **Repository Link**: [mathematical-jargon-translator](https://github.com/Sinhala-Typing/mathematics-translator)
+- **Website Link**: [Click Here](https://sinhala-typing.github.io/mathematics-translator/)
+- **Repository Link**: [mathematics-translator](https://github.com/Sinhala-Typing/mathematics-translator)
 
 
-### Docx Search Tk
-- **Description**: A GUI application built with Tkinter and Python for searching contents within a .docx file with support for Sinhala language (non-legacy)
+### .docx Search
+- **Description**: A GUI application built with Tkinter and Python for searching contents within a .docx file with support for Sinhala language (Unicode, non-legacy)
 - **Repository Link**: [docx-search-tk](https://github.com/Sinhala-Typing/docx-search-tk)
 
 
