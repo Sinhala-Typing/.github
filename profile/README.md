@@ -1,5 +1,7 @@
 # Hey 🙋‍♂️
 
+![home](https://github.com/user-attachments/assets/2a155c3c-b278-4f2a-8a85-7a3f524d3f5e)
+
 ## Introduction
 
 This is for developing applications focused on the Sinhala language, aiming to make technology more accessible and user-friendly for Sinhala speakers. Here, you'll find a collection of my own projects, improved versions of existing projects, and links to other great projects that I admire, all with a special emphasis on enhancing the Sinhala language experience.
